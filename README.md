@@ -1,2 +1,3 @@
 # Green-behavior-diffusion-with-positive-and-negative-information-in-time-varying-multiplex-networks
 This repository contains the scripts and data from the " Green behavior diffusion with positive and negative information in time-varying multiplex networks " by Xianli Sun, Linghua Zhang, Qiqing Zhai, and Peng Zheng. 
+This code is divided into eight sections. For the influence of upper and lower parameters on propagation, we adopt Monte Carlo simulations and MMC iterative computations. The code is available in the file- G,A1,A2, t,and lamdba. The influence of related parameters on the green behavior threshold is available in file-mu, Sensitivity. The influence of time-varying properties on green behavior diffusion is available in files-ma, mb, and gamma.
