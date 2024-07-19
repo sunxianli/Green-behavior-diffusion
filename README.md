@@ -6,9 +6,13 @@ The code for the simulation is written in MATLAB, using version 2021a and requir
 
 ORGANIZATION:
 This project contains the scripts and data that can be divided into five sections. 
-	t: The file describes the variation of each node over time in synthetic networks and real-world networks 
-	Sensitivity: This file describes the sensitivity analysis for different parameters, including  , and  .
-	threshold: This file describe the effect of different parameters on the green behavior threshold, including  , and  .	m : Influence of nodal activity heterogeneity on green behavior 
+
+t: The file describes the variation of each node over time in synthetic networks and real-world networks
+
+Sensitivity: This file describes the sensitivity analysis for different parameters, including  $\beta ,\mu ,{\lambda _1},{\lambda _2},{\delta _1}$, and ${\delta _2}$.
+threshold: This file describe the effect of different parameters on the green behavior threshold, including  ${\gamma _1},{\gamma _2},\mu ,{\lambda _1},{\lambda _2},{\delta _1}$, and  ${\delta _2}$.
+ 
+m : Influence of nodal activity heterogeneity on green behavior 
             diffusion
 	gamma: Influence of contact capacity on green behavior diffusion
 
