@@ -1,4 +1,4 @@
-# Green-behavior-diffusion-with-positive-and-negative-information-in-time-varying-multiplex-networks
+# Green-behavior-diffusion
 This repository contains the scripts and data from the " Green behavior diffusion with positive and negative information in time-varying multiplex networks " by Xianli Sun, Linghua Zhang, Qiqing Zhai, and Peng Zheng. 
 
 INSTRUCTIONS AND SYSTEM REQUIREMENTS:
