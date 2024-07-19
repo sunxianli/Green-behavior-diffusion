@@ -5,6 +5,7 @@ INSTRUCTIONS AND SYSTEM REQUIREMENTS:
 The code for the simulation is written in MATLAB, using version 2021a and requires no add-ons. All the functions needed are included in the corresponding folders. Hence, to run the code it is sufficient to open the corresponding folder with MATLAB.
 
 ORGANIZATION:
+
 This project contains the scripts and data that can be divided into five sections. 
 
 t: The file describes the variation of each node over time in synthetic networks and real-world networks.
